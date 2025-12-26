@@ -3,7 +3,7 @@
 Halaman web baru dikembangkan dengan tujuan untuk meningkatkan jumlah pengguna yang melakukan pembelian produk perusahaan. Untuk mengevaluasi efektivitasnya, dilakukan perbandingan antara halaman lama dan halaman baru. Halaman baru tersebut akan diterapkan apabila terbukti memberikan dampak positif yang signifikan terhadap penjualan. Jika tingkat konversi dari halaman baru secara substansial lebih tinggi dibandingkan halaman lama, maka halaman tersebut akan diluncurkan secara resmi.
 
 📑Metodologi 
-- Jenis Uji : Z-test for proportions
+- Jenis Uji : Two sample z-test for proportions
 - Level Sigfikansi : 0.05
 
 📊Hasil yang Didapatkan
