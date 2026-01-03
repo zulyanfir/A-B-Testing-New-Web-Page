@@ -16,7 +16,7 @@ Halaman web baru dikembangkan dengan tujuan untuk meningkatkan jumlah pengguna y
   <ul>
     <li>P_value lebih besar dari alpha (0,05), maka gagal menolak hipotesis nol.</li>
     <li>Oleh karena itu, berdasarkan data, kita tidak dapat menolak bahwa probabilitas semua pengguna yang melakukan konversi dari halaman baru kurang dari atau sama dengan probabilitas konversi dari halaman lama.</li>
-    <li>Confidence Interval berada di antara `−0,0008 hingga 0,0039`, artinya kita yakin 95% bahwa halaman baru akan menarik pengguna untuk membeli produk perusahaan antara −0,08% hingga 0,39% dibandingkan halaman lama.</li>
+    <li>Confidence Interval berada di antara `−0,0214 hingga 0,0235`, artinya kita yakin 95% bahwa halaman baru akan menarik pengguna untuk membeli produk perusahaan antara −0,02% hingga 0,2% dibandingkan halaman lama.</li>
   </ul>
 </div>
 
