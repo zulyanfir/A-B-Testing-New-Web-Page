@@ -1,13 +1,24 @@
 # Halaman Website Lama vs Baru, Mana yang Akan Meningkatkan *Conversion Rate*?
 
 <div align='justify'>
-Halaman web baru dikembangkan dengan tujuan untuk meningkatkan jumlah pengguna yang melakukan pembelian produk perusahaan. Untuk mengevaluasi efektivitasnya, dilakukan perbandingan antara halaman lama dan halaman baru. Halaman baru tersebut akan diterapkan apabila terbukti memberikan dampak positif yang signifikan terhadap penjualan. Jika tingkat konversi dari halaman baru secara substansial lebih tinggi dibandingkan halaman lama, maka halaman tersebut akan diluncurkan secara resmi.
+Halaman web baru dikembangkan dengan tujuan untuk meningkatkan jumlah pengguna yang melakukan pembelian produk perusahaan. Untuk mengevaluasi efektivitasnya, dilakukan a/b testing untuk membandingkan perhitungan statistik user yang menggunakan halaman lama dan halaman baru. Halaman baru tersebut akan diterapkan apabila terbukti memberikan dampak positif yang signifikan terhadap penjualan. Jika tingkat konversi dari halaman baru secara substansial lebih tinggi dibandingkan halaman lama, maka halaman tersebut akan diluncurkan secara resmi. 
 
 <div style="margin-top:20px;">
   <h3>📄 Metodologi</h3>
   <ul>
     <li>Jenis Uji: Two sample z-test for Proportions</li>
     <li>Level Signifikansi: 0.05</li>
+  </ul>
+</div>
+
+<div style="margin-top:20px;">
+  <h3>💻Tahapan</h3>
+  <ul>
+    <li>Validasi data</li>
+    <li>Uji hipotesis</li>
+    <li>Interpretasi hasil dengan p-value dan critical value</li>
+    <li>Menentukan confidence interval</li>
+    <li>Pengambilan keputusan</li>
   </ul>
 </div>
 
